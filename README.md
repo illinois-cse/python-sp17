@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Python Workshops
+##### [Computational Science and Engineering](http://cse.illinois.edu/)
 
-You can use the [editor on GitHub](https://github.com/uiuc-cse/python-sp17/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Foreword
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Python is a popular scripting language which can support numerical computing, machine learning, , and more.  This workshop series will introduce you to basic and advanced Python modules and concepts.
 
-### Markdown
+The EWS Linux machines have everything we need for the workshop.  If you plan to use your personal laptop, you'll need to install a version of Python 3 like [Anaconda](https://www.continuum.io/downloads).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Location
 
-# Header 1
-## Header 2
-### Header 3
+All workshops will be held in the EWS computer laboratory, [L520](http://ada.fs.illinois.edu/0210PLANB.html) [Digital Computer Laboratory](http://ada.fs.illinois.edu/0210.html).
 
-- Bulleted
-- List
+**There is no sign-up for this series—walk-ins are welcome and encouraged!**
 
-1. Numbered
-2. List
+L520 DCL can be a little tricky to find if you haven't been there before. It's located in the basement, and can be accessed by going down the main staircase in DCL and turning right.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Topics
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Introduction to Python
 
-### Jekyll Themes
+**Feb. 14, 1:00 p.m.–3:00 p.m.**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uiuc-cse/python-sp17/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Numerical Python (`numpy`)
 
-### Support or Contact
+**Feb. 21, 1:00 p.m.–3:00 p.m.**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Scientific Python (`scipy`)
+
+**Feb. 28, 1:00 p.m.–3:00 p.m.**
+
+#### Plotting (`matplotlib`)
+
+**Mar. 7, 1:00 p.m.–3:00 p.m.**
+
+#### Data Analytics (`pandas`)
+
+**Mar. 14, 1:00 p.m.–3:00 p.m.**
+
+After the break, look for topics including machine learning (`scikit-learn`), debugging and error handling, object-oriented programming, and more.
