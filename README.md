@@ -12,7 +12,7 @@ The EWS Linux machines have everything we need for the workshop.  If you plan to
 
 All workshops will be held in the EWS computer laboratory, [L520](http://ada.fs.illinois.edu/0210PLANB.html) [Digital Computer Laboratory](http://ada.fs.illinois.edu/0210.html).
 
-[How to find the room](https://uiuc-cse.github.io/python-sp16/img/map-l440.png)
+![How to find the room](https://uiuc-cse.github.io/python-sp16/img/map-l440.png)
 
 **There is no sign-up for this series—walk-ins are welcome and encouraged!**
 
