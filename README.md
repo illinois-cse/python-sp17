@@ -86,7 +86,7 @@ If you are using your own computer, make sure that you have python installed and
 
 **Mar. 28, 1:00 p.m.–3:00 p.m.**
 
-#### Interactive Visualizaiton (`bookeh`)
+#### Interactive Visualizaiton (`bokeh`)
 
 **Apr. 4, 1:00 p.m.–3:00 p.m.**
 
