@@ -27,6 +27,7 @@ L520 DCL can be a little tricky to find if you haven't been there before. It's l
 
 Open a new Terminal (command line) and run the setup code below to prepare your EWS machine to run our Python lesson today. This will download the data we will work with a Jupyter Notebook. (You can copy and paste the entire block at once.)
 
+
 ```
 source /class/cs101/etc/venv/cse/bin/activate /class/cs101/etc/venv/cse/
 cd
@@ -42,6 +43,32 @@ If you are using your own computer, make sure that you have python installed and
 #### Numerical Python (`numpy`)
 
 **Feb. 21, 1:00 p.m.–3:00 p.m.**
+
+Open a new Terminal (command line) and run the setup code below to prepare your EWS machine to run our Python lesson today. This will download the data we will work with a Jupyter Notebook. (You can copy and paste the entire block at once.)
+
+If you have attended previous seminars use following command
+```
+source /class/cs101/etc/venv/cse/bin/activate /class/cs101/etc/venv/cse/
+cd
+cd Documents/python-sp17
+git pull
+cd lessons/2-numpy-scipy
+jupyter notebook
+```
+
+If this is your first seminar execute following
+
+```
+source /class/cs101/etc/venv/cse/bin/activate /class/cs101/etc/venv/cse/
+cd
+cd Documents
+git clone https://github.com/uiuc-cse/python-sp17.git
+cd python-sp17/lessons/2-numpy-scipy
+jupyter notebook
+```
+
+Use `Shift+Enter` or `Ctrl+Enter` to execute cells inside Jupyter Notebook
+If you are using your own computer, make sure that you have python installed and you can pull git repositories.
 
 #### Scientific Python (`scipy`)
 
