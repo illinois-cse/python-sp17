@@ -51,8 +51,30 @@ If you are using your own computer, make sure that you have python installed and
 
 **Mar. 7, 1:00 p.m.–3:00 p.m.**
 
-#### Data Analytics (`pandas`)
+#### Data Analytics (`pandas/scikit-learn`)
 
 **Mar. 14, 1:00 p.m.–3:00 p.m.**
+
+#### Data Analytics (`pandas/scikit-learn`)
+
+**Mar. 28, 1:00 p.m.–3:00 p.m.**
+
+#### Interactive Visualizaiton (`bookeh`)
+
+**Apr. 4, 1:00 p.m.–3:00 p.m.**
+
+#### Jupyter Notebook
+
+**Apr. 11, 1:00 p.m.–3:00 p.m.**
+
+#### Object Oriented Programming
+
+**Apr. 18, 1:00 p.m.–3:00 p.m.**
+
+#### Error handling (pdb, etc.)
+
+**Apr. 25, 1:00 p.m.–3:00 p.m.**
+
+
 
 After the break, look for topics including machine learning (`scikit-learn`), debugging and error handling, object-oriented programming, and more.
