@@ -78,7 +78,7 @@ If you are using your own computer, make sure that you have python installed and
 
 **Mar. 7, 1:00 p.m.–3:00 p.m.**
 
-Execute following cod ein terminal
+Execute following code in terminal
 ```
 source /class/cs101/etc/venv/cse/bin/activate /class/cs101/etc/venv/cse/
 cd
