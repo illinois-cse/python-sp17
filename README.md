@@ -78,6 +78,17 @@ If you are using your own computer, make sure that you have python installed and
 
 **Mar. 7, 1:00 p.m.–3:00 p.m.**
 
+Execute following cod ein terminal
+```
+source /class/cs101/etc/venv/cse/bin/activate /class/cs101/etc/venv/cse/
+cd
+cd Documents/python-sp17
+git pull
+cd lessons/3-matplotlib
+jupyter notebook
+```
+
+
 #### Data Analytics (`pandas/scikit-learn`)
 
 **Mar. 14, 1:00 p.m.–3:00 p.m.**
