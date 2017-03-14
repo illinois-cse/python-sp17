@@ -91,6 +91,17 @@ jupyter notebook
 
 #### Data Analytics (`pandas/scikit-learn`)
 
+Execute following code in terminal
+
+```
+source /class/cs101/etc/venv/cse/bin/activate /class/cs101/etc/venv/cse/
+cd
+cd Documents/python-sp17
+git pull
+cd lessons/4-pandas-sklearn
+jupyter notebook
+```
+
 **Mar. 14, 1:00 p.m.–3:00 p.m.**
 
 #### Data Analytics (`pandas/scikit-learn`)
