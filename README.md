@@ -113,8 +113,16 @@ jupyter notebook
 **Apr. 4, 1:00 p.m.–3:00 p.m.**
 
 #### Jupyter Notebook
-
 **Apr. 11, 1:00 p.m.–3:00 p.m.**
+
+```
+source /class/cs101/etc/venv/cse/bin/activate /class/cs101/etc/venv/cse/
+cd
+cd Documents/python-sp17
+git pull
+cd lessons/7-jupyter
+jupyter notebook
+```
 
 #### Object Oriented Programming
 
