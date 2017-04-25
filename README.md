@@ -132,6 +132,13 @@ jupyter notebook
 
 **Apr. 25, 1:00 p.m.–3:00 p.m.**
 
-
+```
+source /class/cs101/etc/venv/cse/bin/activate /class/cs101/etc/venv/cse/
+cd
+cd Documents/python-sp17
+git pull
+cd lessons/9-oop
+jupyter notebook
+```
 
 After the break, look for topics including machine learning (`scikit-learn`), debugging and error handling, object-oriented programming, and more.
