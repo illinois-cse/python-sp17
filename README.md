@@ -137,7 +137,7 @@ source /class/cs101/etc/venv/cse/bin/activate /class/cs101/etc/venv/cse/
 cd
 cd Documents/python-sp17
 git pull
-cd lessons/9-oop
+cd lessons/9-pdb
 jupyter notebook
 ```
 
